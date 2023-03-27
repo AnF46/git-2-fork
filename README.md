@@ -4,3 +4,6 @@
 GIT запутанный, без интерфейса и не современный.
 
 test to merge 27-03-2023
+
+test for new-branch update after main
+
